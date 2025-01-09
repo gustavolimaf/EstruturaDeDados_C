@@ -1,0 +1,29 @@
+# Pastas do sistema
+.bash_history
+.gitconfig
+.viminfo
+AppData/
+Downloads/
+Favorites/
+OneDrive/
+PycharmProjects/
+Saved Games/
+Searches/
+Videos/
+
+# Projetos antigos ou desnecessários
+CLionProjects/
+GolandProjects/
+IdeaProjects/
+estudos.python/
+go/
+gustavo-fernandes-lima/
+hello-world/
+meuPortfolio/
+teste-git/
+
+# Arquivos de configuração
+NTUSER.DAT
+ntuser.dat.LOG1
+ntuser.dat.LOG2
+ntuser.ini
